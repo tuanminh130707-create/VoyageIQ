@@ -11,7 +11,7 @@
    ╚═══╝   ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚══▀▀═╝
 ```
  
-### ✈️ AI-Powered Travel Intelligence Platform
+###  AI-Powered Travel Intelligence Platform
  
 **Predict flights · Plan trips · Master your budget**
  
@@ -51,19 +51,19 @@ The platform uses machine learning to predict when flight prices are about to ri
  
 ---
  
-## ✨ Features (Current)-----------New Incoming
+##  Features (Current)-----------New Incoming
  
 | Feature | Description |
 |---|---|
-| ✈️ **Flight Prediction** | ML model predicts whether a fare will rise or fall — tells you the best time to book |
-| 💰 **Smart Budget Planner** | Enter your total budget and get a category-by-category breakdown for any trip |
-| 🗓️ **Trip Planner** | Drag-and-drop itinerary builder covering flights, hotels, food, and activities |
-| 🤖 **AI Assistant** | Chat with GPT-4 to plan entire trips in natural language |
-| 🔔 **Price Alerts** | Set a target fare and get notified the moment it drops |
+|  **Flight Prediction** | ML model predicts whether a fare will rise or fall — tells you the best time to book |
+|  **Smart Budget Planner** | Enter your total budget and get a category-by-category breakdown for any trip |
+| **Trip Planner** | Drag-and-drop itinerary builder covering flights, hotels, food, and activities |
+| **AI Assistant** | Chat with GPT-4 to plan entire trips in natural language |
+| **Price Alerts** | Set a target fare and get notified the moment it drops |
  
 ---
  
-## 🛠️ Tech Stack
+##  Tech Stack
  
 ### Frontend
 | Tool | Purpose |
@@ -100,7 +100,7 @@ The platform uses machine learning to predict when flight prices are about to ri
 
 
  
-## 🚀 Getting Started
+##  Getting Started
  
 ### Prerequisites
  
@@ -125,7 +125,7 @@ cd voyageiq
 git checkout dev
 ```
  
-> ⚠️ Always work on `dev` — never directly on `main`.
+>  Always work on `dev` — never directly on `main`.
  
 ### 3. Install All Dependencies
  
@@ -166,9 +166,9 @@ npm run dev
  
 | App | URL |
 |---|---|
-| 🎨 Frontend | http://localhost:3000 |
-| ⚙️ Backend | http://localhost:4000 |
-| 🏥 Health check | http://localhost:4000/api/health |
+|  Frontend | http://localhost:3000 |
+|  Backend | http://localhost:4000 |
+|  Health check | http://localhost:4000/api/health |
  
 ---
  
@@ -192,7 +192,7 @@ npm run install:all
 ---
  
  
-## 📡 API Reference
+##  API Reference
  
 See **[API.md](./API.md)** for the full endpoint contract.
  
@@ -212,13 +212,13 @@ Quick overview:
  
 ---
  
-## 🌐 Deployment
+## Deployment
  
 | App | Platform | Trigger |
 |---|---|---|
-| 🎨 Frontend | [Vercel](https://vercel.com) | Auto-deploys when `main` is updated |
-| ⚙️ Backend | [Render](https://render.com) | Auto-deploys when `main` is updated |
-| 🗄️ Database | [Supabase](https://supabase.com) | Managed PostgreSQL — always on |
+|  Frontend | [Vercel](https://vercel.com) | Auto-deploys when `main` is updated |
+| Backend | [Render](https://render.com) | Auto-deploys when `main` is updated |
+|  Database | [Supabase](https://supabase.com) | Managed PostgreSQL — always on |
  
 ### Deploy Settings
  
@@ -231,17 +231,13 @@ Quick overview:
 - Build Command: `npm install && npx prisma generate`
 - Start Command: `npm start`
  
-> 💡 Never push directly to `main`. Merge `dev` → `main` only when a version is stable and tested.
+>  Never push directly to `main`. Merge `dev` → `main` only when a version is stable and tested.
  
 ---
  
 <div align="center">
  
-<br />
- 
-Made with ☕ by the VoyageIQ Team
- 
-<br />
+
  
 </div>
 
